@@ -1,0 +1,23 @@
+header {
+    width: 100%;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+background: linear-gradient(to right, rgba(147,206,222,1) 0%, rgba(73,165,191,1) 100%);
+}
+header h1{
+    color:white;
+    font-size:3REM;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+body {
+    background-color: black;
+
+
+}
+
+
+
